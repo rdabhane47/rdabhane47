@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I'm R Dabhane
+🚀 Business Intelligence Developer | Data Enthusiast
+📊 About Me
+I am a passionate Business Intelligence (BI) Developer with expertise in data visualization, analytics, and automation. With 4 years of experience in Power BI and 1 year each in Tableau, SQL, Alteryx, and Excel, I specialize in transforming complex data into meaningful insights to drive business decisions.
 
-<!--
-**rdabhane47/rdabhane47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills & Technologies
 
-Here are some ideas to get you started:
+Power BI – Data modeling, DAX, Power Query, Paginated Reports
+Tableau – Dashboard development, Data Blending, LOD Calculations
+SQL – Writing complex queries, Performance Tuning, Stored Procedures
+Alteryx – Data Preparation, ETL Workflows, Automation
+Excel – Advanced formulas, Pivot Tables, Macros
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Projects
+
+Employee Performance Monitoring Dashboard (Power BI, SQL, Alteryx)
+Financial Overview of Bank (Power BI, SQL, Excel)
+Automated Data Pipeline using Alteryx
+
+📫 Connect with Me
+
+LinkedIn: www.linkedin.com/in/ rahi-dabhane-4299b12b9
+GitHub: https://github.com/rdabhane47/super-lamp.git
+Tableau Public: https://public.tableau.com/app/profile/rahi.dabhane/vizzes
