@@ -22,7 +22,7 @@ Automated Data Pipeline using Alteryx
 
 📫 Connect with Me
 
-LinkedIn: www.linkedin.com/in/ rahi-dabhane-4299b12b9
+LinkedIn: www.linkedin.com/in/rahi-dabhane-4299b12b9
 
 GitHub: https://github.com/rdabhane47/super-lamp.git
 
